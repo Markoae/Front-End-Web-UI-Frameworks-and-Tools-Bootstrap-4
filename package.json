@@ -19,6 +19,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.1.0",
     "lite-server": "^2.5.3",
     "node-sass": "^4.12.0",
     "onchange": "^3.3.0",
@@ -29,8 +32,11 @@
     "bootstrap-social": "^5.1.1",
     "copyfiles": "^2.0.0",
     "font-awesome": "^4.7.0",
+    "grunt": "^0.4.0",
+    "jit-grunt": "^0.10.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.6.2",
+    "time-grunt": "^1.4.0"
   }
 }
