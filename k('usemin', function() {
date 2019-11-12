@@ -1,0 +1,179 @@
+[33mcommit 7129e2f199e5555f19703d26328b9a8576a76b4e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Mon Nov 11 17:57:22 2019 -0300
+
+    Gulp Part 1
+
+[33mcommit 0f8dcfc44ad8db022952146949e1ba94981127da[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Thu Oct 17 03:27:06 2019 -0300
+
+    Grunt Part 2
+
+[33mcommit 0f81bae2903401f6d16530ede8caa3e44d3966bc[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Sun Sep 29 01:26:18 2019 -0300
+
+    Grunt Part 1
+
+[33mcommit 59ed2f72b5dc06750367f88439584e54aa73be24[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Sat Sep 28 01:30:25 2019 -0300
+
+    NPM Scripts Part 2
+
+[33mcommit adcfa1e546ed239c6514ce18383407d0b0371ecf[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Thu Sep 19 01:17:05 2019 -0300
+
+    NPM Scripts Part 1
+
+[33mcommit 0bc005bebdc22414860fa3e27f8af9ad1c8b0c83[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Wed Sep 18 02:26:30 2019 -0300
+
+    Assignment 4
+
+[33mcommit a659eda23c060205a6bf33d1bf1643616b245ce8[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Mon Sep 9 00:17:07 2019 -0300
+
+    Sass
+
+[33mcommit 5bc34ab223243addbe8e4fbc64a6144831048af7[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Thu Sep 5 02:17:28 2019 -0300
+
+    Less
+
+[33mcommit d5cd8a75779fe68958b1b22956b172cb00572358[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Wed Sep 4 03:37:39 2019 -0300
+
+    More Bootstrap JQuery
+
+[33mcommit 5c3860ab5185ba85e16b860f74b006bcb832b5c1[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Sat Aug 31 01:03:03 2019 -0300
+
+    Bootstrap JQuery
+
+[33mcommit 6909d37c87c5510f00db3c710c550f40bc28adc5[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Mon Aug 12 01:40:38 2019 -0300
+
+    Assignment 3
+
+[33mcommit 640b931062c82db01e38164ec8f6ce223907c2f2[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Fri Aug 2 23:44:45 2019 -0300
+
+    Carousel
+
+[33mcommit 484e6a1770f7c69f6ca54491eafbe3528dd4ecc6[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Wed Jul 31 00:52:55 2019 -0300
+
+    Tooltip and Modal
+
+[33mcommit 2a8d1b28a8758652afb825642c803cafdd6a3df2[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Tue Jul 9 01:16:19 2019 -0300
+
+    Accordion
+
+[33mcommit d9851da9d29f0bb2f65d9e9cad376ec42bc5bd31[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Wed Jun 26 03:04:40 2019 -0300
+
+    Tabs
+
+[33mcommit 1703e4f787d9e789b27dba769e3bb7dbb61f8418[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Mon Jun 17 23:52:47 2019 -0300
+
+    Assignment 2
+
+[33mcommit 72483d87eea8d0b2003ed3b826862eb6a6c6f991[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Fri Jun 14 18:03:09 2019 -0300
+
+    Assignment Two
+
+[33mcommit 7002d3283e481be8538a514a0685fc2e4b43d679[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Thu Jun 13 17:09:08 2019 -0300
+
+    Alerting Users
+
+[33mcommit 848e3518c1ba1e241983be845de2829ede87f3f4[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Thu Jun 13 16:29:06 2019 -0300
+
+    Images and Media
+
+[33mcommit 90d33020ac9ec610683805b99e3c6030c867cfd2[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Wed Jun 12 02:21:48 2019 -0300
+
+    Tables and Cards
+
+[33mcommit 2d754defa95434523124c7dd0b073e5e53e0dae1[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Wed Jun 12 00:23:52 2019 -0300
+
+    Forms
+
+[33mcommit eeeee7681f58b080f1b55f670d01b602590d25b2[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Tue Jun 11 01:37:38 2019 -0300
+
+    Buttons
+
+[33mcommit 013594e83b04f3f5dce7bc790f348a978fb2cdfa[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Sun Jun 9 02:04:18 2019 -0300
+
+    Icon Fonts
+
+[33mcommit f0ca52768e3d193a208605ad33d3a81ed1f62b78[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Fri Jun 7 03:39:52 2019 -0300
+
+    Navbar and Breadcrumbs
+
+[33mcommit 4fe64a95ae3c4b1664a45e8721af68c643afcdfa[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Wed Jun 5 01:36:22 2019 -0300
+
+    Assignment One
+
+[33mcommit 362362362c03e9125535ade6a4bebaee323da24c[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Tue Jun 4 21:40:22 2019 -0300
+
+    Assigment 1
+
+[33mcommit 1b5107b4e6489855826a6c5fb940220976494dae[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Mon Jun 3 23:34:12 2019 -0300
+
+    Bootstrap Grid,part two
+
+[33mcommit f61abe042827a81d91da95495fbe861a84fa2c0e[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Mon Jun 3 22:16:45 2019 -0300
+
+    Bootstrap Grid Part One
+
+[33mcommit 17abe43115d3db8822db463b5566358374458e69[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Sun Jun 2 23:48:34 2019 -0300
+
+    Intro.to Bootstrap
+
+[33mcommit ab2510103ce402288ce9f916c3fb94e7239a3693[m
+Author: Marco Aurelio <aurelio.estevam@gmail.com>
+Date:   Sun Jun 2 23:26:31 2019 -0300
+
+    Initial Setup
